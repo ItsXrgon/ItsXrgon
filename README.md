@@ -1,5 +1,5 @@
 ## About me
- Hello, I am Ali Koheil (ItsXrgon), an Egyptian 18 year old Computer Engineering undergraduate at the German University in Cairo. Aside from university projects, I like to work on personal projects which you can find on my profile.
+ Hello, I am me (ItsXrgon), a Computer Engineering undergraduate in Cairo. Aside from university projects, I like to work on personal projects which you can find on my profile.
  
  
  <!---
